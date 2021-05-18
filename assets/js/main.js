@@ -7,11 +7,7 @@ const app = new Vue ({
 
     data: {
         message: "Hello",
-        image: 
+        image: "./assets/img/image.jpg"
+    }
 
-    },
-
-    methods: {
-
-    } 
 })
